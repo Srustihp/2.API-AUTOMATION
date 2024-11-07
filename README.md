@@ -1,2 +1,2 @@
-# 2.API-AUTOMATION
+# 2.API-Automation
 Exercise 2
